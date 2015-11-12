@@ -1,0 +1,2 @@
+python yotubbbb.py
+pause
