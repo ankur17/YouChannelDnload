@@ -1,7 +1,9 @@
-Copy the contents in the[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
-[[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C(FOR WONDOWS AND PYTHON USERS ONLY)
-copy the entire folder in the Desktop[D[D[D[D[D[D[D[D[D[D[D[D[o[4~.
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[3~n[4~
-[A[3~C[4~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.
-Run add the list of the links to the 'videolink.txt'[D[D[D[D[C[C[C[C.
-run the batch file[1~[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[2~[4~[4~[4~[2~Co[D[D[D[B[B
+(FOR WONDOWS + PYTHON USERS ONLY)
+
+Step 1: Uzip entire folder on the Desktop
+
+Step 2: add the list of the links to the 'videolink.txt'
+
+Step 3: run the batch file
+
+Step 4: The links which could not make it to the download are added to the 'others.txt'
